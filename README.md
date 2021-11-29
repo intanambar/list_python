@@ -45,7 +45,7 @@ print("Gabungan dari list A dan list B :", Bilangan)
 # Tugas Praktikum
 * Berikut flowchart program daftar nilai siswa :
 ![Gambar3](Flowchart.png)
-*Berikut Tampilan program daftar nilai siswa :
+* Berikut Tampilan program daftar nilai siswa :
 ![Gambar4](Gambar3.png)
 * untuk mendefinisikan index gunakan perintah berikut :
 >>i=0
