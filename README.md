@@ -43,7 +43,7 @@ print("Gabungan dari list A dan list B :", Bilangan)
 ![Gambar2](Gambar2.png)
 
 # Tugas Praktikum
-*Berikut flowchart program daftar nilai siswa :
+* Berikut flowchart program daftar nilai siswa :
 ![Gambar3](Flowchart.png)
 *Berikut Tampilan program daftar nilai siswa :
 ![Gambar4](Gambar3.png)
@@ -79,4 +79,4 @@ NilaiAkhir=[]
         break
 
 ### Berikut Tampilan Program setelah dijalankan
-![Gambar4](Gambar.png)
+![Gambar4](Gambar4.png)
