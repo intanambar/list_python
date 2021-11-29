@@ -27,6 +27,17 @@ buat 2 list
 misal :
 >>A = [1,2,3,4,5]
 B = [6,7,8,9,10]
-* menambahkan list A ke list B
+* menambahkan list A ke list B gunakan perintah sebagai berikut:
 >>B.append(A[1:3])
 print("2 Bagian dari list A dijadikan list B:",B)
+* menambahkan list B dengan string, gunakan perintah sebagai berikut:
+>>B.append("Bilangan Positif")
+print ("Menambahkan list B dengan string:" , B)
+* menambahkan list B dengan 3 nilai, gunakan perintah sebagai berikut :
+>>print("menambahkan list B dengan 3 nilai:", B+[11,12,13])
+* menggabungkan list A dan list B, gunakan perintah berikut :
+>>Bilangan=A+B
+print("Gabungan dari list A dan list B :", Bilangan)
+
+### berikut tampilan program setelah di jalankan
+![Gambar2](Gambar2.png)
