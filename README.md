@@ -51,32 +51,32 @@ print("Gabungan dari list A dan list B :", Bilangan)
 >>i=0
 * untuk membuat list Nama, NIM, Nilai tugas, UTS, UAS, dan nilai akhir gunakan perintah berikut :
 >>Nama=[]
-NIM=[]
-Tugas=[]
-UTS=[]
-UAS=[]
+>>NIM=[]
+>>Tugas=[]
+>>UTS=[]
+>>UAS=[]
 NilaiAkhir=[]
 * menginput nilai ke dalam list yang telah dibuat, gunakan append dan perulangan berupa while :
 >>while True:
-    i_Nama=str(input("Masukan Nama : "))
-    Nama.append(i_Nama)
-    i_NIM=int(input("Masukan NIM : "))
-    NIM.append(i_NIM)
-    i_Tugas=int(input("Masukan Nilai Tugas : "))
-    Tugas.append(i_Tugas)
-    i_UTS=int(input("Masukan Nilai UTS : "))
-    UTS.append(i_UTS)
-    i_UAS=int(input("Masukan Nilai UAS : "))
-    UAS.append(i_UAS)
+    >>i_Nama=str(input("Masukan Nama : "))
+    >>Nama.append(i_Nama)
+    >>i_NIM=int(input("Masukan NIM : "))
+    >>NIM.append(i_NIM)
+    >>i_Tugas=int(input("Masukan Nilai Tugas : "))
+    >>Tugas.append(i_Tugas)
+    >>i_UTS=int(input("Masukan Nilai UTS : "))
+    >>UTS.append(i_UTS)
+    >>i_UAS=int(input("Masukan Nilai UAS : "))
+    >>UAS.append(i_UAS)
 * mengitung nilai akhir atau rata-rata :
 >> i_NilaiAkhir=(i_Tugas*0.30)+(i_UTS*0.35)+(i_UAS*0.35)
-    NilaiAkhir.append(i_NilaiAkhir)
+    >>NilaiAkhir.append(i_NilaiAkhir)
 * untuk menampilkan pertanyaan menambah data atau tidak gunakan kode berikut :
 >>i+=1
-    x=""
-    x=str(input("Tambah data (y/t)?"))
-    if x=="t":
-        break
+    >>x=""
+    >>x=str(input("Tambah data (y/t)?"))
+    >>if x=="t":
+        >>break
 
 ### Berikut Tampilan Program setelah dijalankan
 ![Gambar4](Gambar4.png)
